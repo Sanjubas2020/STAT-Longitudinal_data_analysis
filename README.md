@@ -16,3 +16,4 @@ Binary response: Fitting Models with Binary Responses in PROC GLIMMIX, Using the
 Oridnay response: Fitting Generalized Linear Mixed Models with an Ordinal neralized Linear Mixed Models with an Ordinal ResponseResponse, 
 Fitting Generalized Linear Mixed Models with Splines
 
+GEE Regression Models: longitudinal models using GEE

@@ -1,1 +1,7 @@
-Why mixed?
+What is mixed models? Fixed effects (three varieties of rice) and random effects (four locations).
+Response: Yield
+
+Both mixed model using proc mix and proc glimmix can be used.
+Examples of mixed models: Two way mixed model,nested mixed models, split plots design, crossover design
+Repeated measures data analysis
+ 
